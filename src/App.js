@@ -1,3 +1,4 @@
+//Sorry, couldn't complete the project.
 const web3 = new Web3(window.ethereum);
 
 const contractABI = [
